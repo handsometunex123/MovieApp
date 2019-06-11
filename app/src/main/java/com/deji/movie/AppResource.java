@@ -1,8 +1,6 @@
 package com.deji.movie;
 
-/**
- * Created by Slimfit on 4/14/2017.
- */
+
 
 public class AppResource {
     public static final String BASE_URL = "https://api.themoviedb.org/3/";
