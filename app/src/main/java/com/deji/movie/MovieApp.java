@@ -13,9 +13,6 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 import static com.deji.movie.AppResource.BASE_URL;
 
-/**
- * Created by Adetuyi Tolu on 3/04/2017.
- */
 
 public class MovieApp extends Application {
 
